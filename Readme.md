@@ -1,3 +1,5 @@
+# This fork will try to get everything working on Windows
+
 # A Compiler Writing Journey
 
 In this Github repository, I'm documenting my journey to write a
